@@ -1,0 +1,2 @@
+# PaidScript
+Rishab Paid Script
